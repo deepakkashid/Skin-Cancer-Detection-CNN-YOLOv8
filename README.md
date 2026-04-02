@@ -33,4 +33,6 @@ Preprocessing of images plays an important role in increasing the accuracy of pr
  5.CNN models
  6.Webcam integration
  7.ISIC dataset
+
+ # RESULTS
  
