@@ -35,4 +35,7 @@ Preprocessing of images plays an important role in increasing the accuracy of pr
  7.ISIC dataset <br>
 
  # RESULTS
- 
+![Output](images/2.png)
+![Output](images/3.png)
+![Output](images/4.png)
+![Output](images/5.png)
