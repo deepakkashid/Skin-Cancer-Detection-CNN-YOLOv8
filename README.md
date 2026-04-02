@@ -26,13 +26,13 @@ Further, a web-based interface is developed that allows the user to interact eas
 Preprocessing of images plays an important role in increasing the accuracy of prediction. After acquisition, the input image is converted into RGB format and then resized according to the model's input shape. The CNN extracts automatically low-level features at early layers, which include edges, color variations, and texture patterns, while deeper layers learn high-level semantic features that are malignant and benign lesion-specific.This automated feature extraction removes the burden of manual feature engineering and enhances the ability of the system to identify subtle visual differences between cancerous and non-cancerous skin lesions.
 
 # TECHNOLOGIES USED
- 1.Python
- 2.Keras
- 3.OpenCV
- 4.YOLOv8
- 5.CNN models
- 6.Webcam integration
- 7.ISIC dataset
+ 1.Python <br>
+ 2.Keras <br>
+ 3.OpenCV <br>
+ 4.YOLOv8 <br>
+ 5.CNN models <br>
+ 6.Webcam integration <br>
+ 7.ISIC dataset <br>
 
  # RESULTS
  
