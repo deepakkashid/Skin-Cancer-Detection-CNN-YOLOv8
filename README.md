@@ -63,9 +63,3 @@ By integrating it with hospital databases and electronic medical record systems,
 In order to evaluate lesion evolution over time, future iterations of the system may incorporate sophisticated image analytical techniques. It may outline differences in a lesion's size, color, or shape and estimate the risk level of a lesion by comparing images from the past and present. These improvements would undoubtedly aid in early detection and prioritize high-risk cases for prompt medical attention.
 # Automated Clinical Referral and Alert Mechanism
 In the event of a high-risk detection, this system can be further expanded to automatically suggest dermatological consultation. It might be integrated with telemedicine platforms, allowing for secure lesion image sharing with specialists or instant appointment scheduling. Particularly for patients who reside in remote or underserved areas, this feature will ensure prompt medical interventions and decrease diagnostic delays.
-
-# PROJECT DOCUMENTATION
-
-The detailed research paper for this project is available below:
-
-[📥 Download Project Paper](docs/project_paper.pdf)
